@@ -1,0 +1,2 @@
+# trainingdiary
+Käyttöohjeet treenipäiväkirjasovellukseen
